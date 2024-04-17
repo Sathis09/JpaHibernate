@@ -1,0 +1,16 @@
+
+ {
+  "type" : "object",
+   "additionalProperties": false,
+  "properties" : {
+    "studentName" : {
+      "type" : ["string","null"]
+    },
+    "studentFatherName" : {
+      "type" : ["string","null"]
+    },
+    "studentMotherName" : {
+      "type" : ["string","null"]
+    }
+  }
+}

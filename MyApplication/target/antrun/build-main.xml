@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy file="D:\Sathiswaran\Learing\8-Apr\MyApplication\MyApplication\target/GrievanceService-0.0.1-SNAPSHOT.jar" todir="../SvrJsbJarFdr"/>
+</target>
+</project>
